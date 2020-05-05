@@ -1,0 +1,16 @@
+{
+  "name": "Tomd",
+  "version": "0.0.1",
+  "description": "HTML to Markdown",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "dependencies": {
+    "h2m": "^0.7.0",
+    "js-beautify": "^1.11.0"
+  }
+}

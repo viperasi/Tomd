@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Tomd",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "Tomd",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "HTML to Markdown",
+    "description": "The description of the application"
+  }
+}
